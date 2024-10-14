@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DPoP_V2.props" />
+</Project>

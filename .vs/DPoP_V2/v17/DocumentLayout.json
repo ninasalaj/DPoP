@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DPoP_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1A0F6-C996-4649-9BC6-9F53BEDA708B}|ResourceServer\\ResourceServer.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\resourceserver\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1A0F6-C996-4649-9BC6-9F53BEDA708B}|ResourceServer\\ResourceServer.csproj|solutionrelative:resourceserver\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\authorizationserver\\proofvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\proofvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\client\\controllers\\simulatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|solutionrelative:client\\controllers\\simulatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\authorizationserver\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\client\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|solutionrelative:client\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\client\\securitykeyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC42320-B73A-43B4-AEDD-FEC9E8FBC23D}|Client\\Client.csproj|solutionrelative:client\\securitykeyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\user\\source\\repos\\dpop_v2\\authorizationserver\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF361C-B7F0-4A0F-A76B-90D98FFBB058}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 561,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulateController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\Controllers\\SimulateController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\SimulateController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\Controllers\\SimulateController.cs",
+              "RelativeToolTip": "Client\\Controllers\\SimulateController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:43:56.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "AuthorizationServer\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\TokenGenerator.cs",
+              "RelativeToolTip": "AuthorizationServer\\TokenGenerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:40:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityKeyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\SecurityKeyInfo.cs",
+              "RelativeDocumentMoniker": "Client\\SecurityKeyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\SecurityKeyInfo.cs",
+              "RelativeToolTip": "Client\\SecurityKeyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:25:14.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Client\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\Client\\TokenGenerator.cs",
+              "RelativeToolTip": "Client\\TokenGenerator.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:18:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProofValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\ProofValidator.cs",
+              "RelativeDocumentMoniker": "AuthorizationServer\\ProofValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\ProofValidator.cs",
+              "RelativeToolTip": "AuthorizationServer\\ProofValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T00:47:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\ResourceServer\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "ResourceServer\\Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\ResourceServer\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "ResourceServer\\Controllers\\ResourceController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAswBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:56:39.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "AuthorizationServer\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "AuthorizationServer\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:45:01.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 820,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

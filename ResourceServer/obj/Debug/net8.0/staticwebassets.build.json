@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wAabfQkf4C/QCkhtECYpEIf4Nesx3I8Sxl2HLreJXEU=",
+  "Source": "ResourceServer",
+  "BasePath": "_content/ResourceServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
