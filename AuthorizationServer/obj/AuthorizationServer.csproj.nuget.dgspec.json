@@ -1,31 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj": {}
+    "C:\\Users\\ninas\\Desktop\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj": {
+    "C:\\Users\\ninas\\Desktop\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj",
+        "projectUniqueName": "C:\\Users\\ninas\\Desktop\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj",
         "projectName": "AuthorizationServer",
-        "projectPath": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\DPoP_V2\\AuthorizationServer\\obj\\",
+        "projectPath": "C:\\Users\\ninas\\Desktop\\DPoP_V2\\AuthorizationServer\\AuthorizationServer.csproj",
+        "packagesPath": "C:\\Users\\ninas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ninas\\Desktop\\DPoP_V2\\AuthorizationServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ninas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://aircash.pkgs.visualstudio.com/_packaging/Aircash/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -37,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

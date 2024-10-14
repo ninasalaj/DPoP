@@ -1,6 +1,0 @@
-@DPoP_V2_HostAddress = http://localhost:5208
-
-GET {{DPoP_V2_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
